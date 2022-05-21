@@ -1,0 +1,12 @@
+.employees{
+    height: 100%;
+}
+
+.employee_item{
+}
+
+.employee_item_label{
+
+    display: block;
+    text-align: center;
+}

@@ -1,0 +1,21 @@
+.btn {
+    background: rgb(25 39 195);
+    color: white;
+    border: 1px solid rgb(12 24 158 / 37%);
+    border-radius: 2px;
+    box-shadow: 0 0px 2px 0.3px #444c8f;
+
+    transition: box-shadow 0.1s;
+}
+
+.btn:active {
+
+    background: rgb(23 37 197);
+    box-shadow: 0 0px 3px 1.5px #444c8f;
+    color: #ddd;
+    border-color: #111;
+}
+
+.default {}
+
+.primary {}
